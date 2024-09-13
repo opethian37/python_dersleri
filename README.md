@@ -1,3 +1,1 @@
-Merhaba,
-
-Python ogrenme surecimde yaptigim uygulamalari buraya yukleyecegim.
+Turkce Dilde Python Uygulamalari ve Dersleri
